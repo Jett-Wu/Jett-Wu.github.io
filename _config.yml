@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Yangjian Wu / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yangjian Wu"
+description              : &description "a fourth-year undergraduate student from Hainan University"
 url                      : https://Jett-Wu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Jett-Wu/Jett-Wu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,8 +25,8 @@ author:
   avatar           : "wyj.png"
   name             : "Yangjian Wu"
   pronouns         : # example: "she/her"  
-  #bio              : "..."
-  location         : "China"
+  bio              : #"Your biography for the left-hand sidebar"
+  location         : "Xiamen, China"
   employer         : "Hainan University"
   uri              : "https://Jett-Wu.github.io" # URL
   email            : "yangjian.wu@163.com" 
