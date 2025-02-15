@@ -25,10 +25,10 @@ author:
   avatar           : "wyj.png"
   name             : "Yangjian Wu"
   pronouns         : # example: "she/her"  
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "Hainan University" #"Your biography for the left-hand sidebar"
   location         : "Xiamen, China"
-  employer         : "Hainan University"
-  uri              : "https://Jett-Wu.github.io" # URL
+  employer         : #"..."
+  uri              : #"https://Jett-Wu.github.io" # URL
   email            : "yangjian.wu@163.com" 
 
   # Academic websites
