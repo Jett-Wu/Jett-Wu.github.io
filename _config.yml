@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yangjian Wu"
-  pronouns         : "he/his" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "she/her"  
+  bio              : "..."
   location         : "China"
   employer         : "Hainan University"
   uri              : https://github.com/Jett-Wu/Jett-Wu.github.io # URL
