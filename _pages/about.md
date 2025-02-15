@@ -14,4 +14,4 @@ I am honored to conduct academic research under the guidance of [Prof. Xiaofeng 
 
 You can find my CV here: [Yangjian Wu's Curriculum Vitae]((../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:yangjian.wu@163.com) / [Github](https://github.com/Jett-Wu) / Wechat / CSDN
+[Email](mailto:yangjian.wu@163.com) / [Github](https://github.com/Jett-Wu) / [Wechat](../image/wechat.jpg) / CSDN
