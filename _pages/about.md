@@ -54,6 +54,9 @@ My research interests include **multi-agent debate (MAD)**, **event causality id
     text-align: center;
     vertical-align: -0.1em;
   }
+  .link-icon img {
+    vertical-align: 0.15em;
+  }
 </style>
 
 - <span class="link-icon"><i class="fa-solid fa-envelope"></i></span> Email: [wuyangjian@stu.xmu.edu.cn](mailto:wuyangjian@stu.xmu.edu.cn)
