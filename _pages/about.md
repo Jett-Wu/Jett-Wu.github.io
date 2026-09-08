@@ -41,7 +41,7 @@ My research interests include **multi-agent debate (MAD)**, **event causality id
 - **M.S. in Control Engineering**, School of Aerospace Engineering, Xiamen University, 2025 – present (expected 2028). Advisor: Prof. Qifeng Zhou.
 - **B.S. in Automation**, School of Mechanical and Electrical Engineering, Hainan University, 2021 – 2025.
 
-## Research Experience
+## Internship Experience
 
 - **2022 – 2023** Research Intern, Business Artificial Intelligence Lab, Nanyang Technological University (supervised by Prof. Teik Toe Teoh). Developed WavBriVL, a diffusion-based framework for cross-modal audio–visual representation learning and generation. I constructed a 20,000-pair audio–image dataset through web crawling and preprocessing pipelines, implemented a VQGAN-based generative framework, and achieved 91.17% audio classification accuracy, outperforming the then state-of-the-art Wav2CLIP by 5.22%. The work resulted in two publications at ICONIP 2023 and MRL 2023.
 
