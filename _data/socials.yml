@@ -9,6 +9,6 @@ email: wuyangjian@stu.xmu.edu.cn # your email address
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format)
 custom_social: # CSDN blog
-  logo: https://blog.csdn.net/favicon.ico # can be png, svg, jpg
+  logo: https://cdn.simpleicons.org/csdn/DC3C22 # png/svg/jpg supported (ico not supported by the plugin)
   title: CSDN
   url: https://blog.csdn.net/m0_69520131
