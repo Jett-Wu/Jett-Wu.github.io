@@ -20,3 +20,19 @@
     }
   })();
 </script>
+<script>
+  // jekyll-socials renders the custom_social logo as an icon-font class, so
+  // image URLs end up as an empty <i class="https://...">. Replace it with a
+  // real <img> using the URL carried in the class attribute.
+  (function () {
+    var csdnIcon = document.querySelector('a[title="CSDN"] i');
+    if (csdnIcon && csdnIcon.className && csdnIcon.className.indexOf('http') === 0) {
+      var img = document.createElement('img');
+      img.src = csdnIcon.className;
+      img.alt = 'CSDN';
+      img.style.height = '1em';
+      img.style.width = 'auto';
+      csdnIcon.replaceWith(img);
+    }
+  })();
+</script>
