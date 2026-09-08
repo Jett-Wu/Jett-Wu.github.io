@@ -47,7 +47,16 @@ My research interests include **multi-agent debate (MAD)**, **event causality id
 
 ## Links
 
-- <i class="fa-solid fa-envelope fa-fw"></i> Email: [wuyangjian@stu.xmu.edu.cn](mailto:wuyangjian@stu.xmu.edu.cn)
-- <i class="ai ai-orcid fa-fw"></i> ORCID: [0009-0002-8771-9343](https://orcid.org/0009-0002-8771-9343)
-- <i class="fa-brands fa-github fa-fw"></i> GitHub: [github.com/Jett-Wu](https://github.com/Jett-Wu)
-- <img src="https://cdn.simpleicons.org/csdn/DC3C22" alt="CSDN" style="width: 1em; height: 1em; vertical-align: -0.125em;"> CSDN: [blog.csdn.net/m0_69520131](https://blog.csdn.net/m0_69520131)
+<style>
+  .link-icon {
+    display: inline-block;
+    width: 1.25em;
+    text-align: center;
+    vertical-align: -0.1em;
+  }
+</style>
+
+- <span class="link-icon"><i class="fa-solid fa-envelope"></i></span> Email: [wuyangjian@stu.xmu.edu.cn](mailto:wuyangjian@stu.xmu.edu.cn)
+- <span class="link-icon"><i class="ai ai-orcid"></i></span> ORCID: [0009-0002-8771-9343](https://orcid.org/0009-0002-8771-9343)
+- <span class="link-icon"><i class="fa-brands fa-github"></i></span> GitHub: [github.com/Jett-Wu](https://github.com/Jett-Wu)
+- <span class="link-icon"><img src="https://cdn.simpleicons.org/csdn/DC3C22" alt="CSDN" style="width: 1em; height: 1em;"></span> CSDN: [blog.csdn.net/m0_69520131](https://blog.csdn.net/m0_69520131)

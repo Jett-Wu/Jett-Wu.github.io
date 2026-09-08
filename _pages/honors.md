@@ -13,7 +13,7 @@ nav_order: 3
     display: inline-block;
     min-width: 3.2em;
     margin-right: 0.5em;
-    color: var(--global-divider-color);
+    color: var(--global-text-color-light);
   }
 </style>
 
