@@ -43,7 +43,7 @@ My research interests include **multi-agent debate (MAD)**, **event causality id
 
 ## Research Experience
 
-- **2022 – 2023** Research Intern, Business Artificial Intelligence Lab, Nanyang Technological University (supervised by Prof. Teik Toe Teoh). Developed WavBriVL, a diffusion-based framework for cross-modal audio–visual representation learning and generation. I constructed a 20,000-pair audio–image dataset through web crawling and preprocessing pipelines, implemented a VQGAN-based generative framework, and achieved 91.17% audio classification accuracy, outperforming Wav2CLIP by 5.22%. The work resulted in two publications at ICONIP 2023 and MRL 2023.
+- **2022 – 2023** Research Intern, Business Artificial Intelligence Lab, Nanyang Technological University (supervised by Prof. Teik Toe Teoh). Developed WavBriVL, a diffusion-based framework for cross-modal audio–visual representation learning and generation. I constructed a 20,000-pair audio–image dataset through web crawling and preprocessing pipelines, implemented a VQGAN-based generative framework, and achieved 91.17% audio classification accuracy, outperforming the then state-of-the-art Wav2CLIP by 5.22%. The work resulted in two publications at ICONIP 2023 and MRL 2023.
 
 ## Links
 
