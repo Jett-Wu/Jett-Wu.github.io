@@ -4,3 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - Jett-Wu/Perler_Beads_Generator
+  - Jett-Wu/BCI2022_Evaluation
+  - Jett-Wu/BCI2022_Demo
+  - Jett-Wu/BCI2022_Evaluation_Web
+  - Jett-Wu/OpenBG500-RotatE
+  - Jett-Wu/deepseek-harness-launcher

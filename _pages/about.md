@@ -9,7 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: wuyangjian@stu.xmu.edu.cn</p>
+    <p>Email: <a href="mailto:wuyangjian@stu.xmu.edu.cn">wuyangjian@stu.xmu.edu.cn</a></p>
+    <p>ORCID: <a href="https://orcid.org/0009-0002-8771-9343">0009-0002-8771-9343</a></p>
+    <p>GitHub: <a href="https://github.com/Jett-Wu">github.com/Jett-Wu</a></p>
     <p>Xiamen, Fujian, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
