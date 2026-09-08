@@ -1,0 +1,19 @@
+{% comment %}
+  Parse-safe wrapper for al_search custom tag.
+  Kept in an include so templates without the plugin can still render.
+  Local override: fixes the lowercase "email" title in the search palette.
+{% endcomment %}
+{% al_search_assets %}
+<script>
+  (function () {
+    var ninja = document.querySelector('ninja-keys');
+    if (ninja && ninja.data && Array.isArray(ninja.data)) {
+      ninja.data = ninja.data.map(function (item) {
+        if (item && item.title === 'email') {
+          item.title = 'Email';
+        }
+        return item;
+      });
+    }
+  })();
+</script>
