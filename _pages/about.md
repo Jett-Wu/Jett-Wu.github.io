@@ -31,10 +31,10 @@ My research interests include **multi-agent debate (MAD)**, **event causality id
 
 ## Research Interests
 
-- **Multi-Agent Debate (MAD):** how multiple LLM agents debate to improve reasoning quality and reliability.
-- **Event Causality Identification (ECI):** identifying causal relations between events in natural language.
-- **Large Language Models (LLMs):** representation learning, fine-tuning, and applications of large language models.
-- **Graph Contrastive Learning:** self-supervised graph representation learning for community detection and related tasks.
+- **Multi-Agent Debate (MAD)**
+- **Event Causality Identification (ECI)**
+- **Large Language Models (LLMs)**
+- **Graph Contrastive Learning**
 
 ## Education
 
