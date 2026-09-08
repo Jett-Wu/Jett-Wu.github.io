@@ -38,8 +38,8 @@ My research interests include **multi-agent debate (MAD)**, **event causality id
 
 ## Education
 
-- **M.S. in Control Engineering**, School of Aerospace Engineering, Xiamen University, 2025 – present (expected 2028). Advisor: Prof. Qifeng Zhou.
-- **B.S. in Automation**, School of Mechanical and Electrical Engineering, Hainan University, 2021 – 2025.
+- **M.S. in Control Engineering**, School of Aerospace Engineering, Xiamen University, 2025 – present (expected 2028). Advisor: Prof. [Qifeng Zhou](https://orcid.org/0000-0003-3583-6943).
+- **B.S. in Automation**, School of Mechanical and Electrical Engineering, Hainan University, 2021 – 2025. Advisor: Prof. Xiaofeng Xie.
 
 ## Internship Experience
 
