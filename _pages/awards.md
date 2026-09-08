@@ -1,0 +1,43 @@
+---
+layout: page
+title: awards
+permalink: /awards/
+nav: true
+nav_order: 3
+---
+
+## Awards
+
+### National (国家级)
+
+- **2025** 中国国际大学生创新大赛（2024）— 国家级银奖
+- **2025** 全国高校商业精英挑战赛 — 国家级一等奖
+- **2025** 第五届全国新工科本科生毕业设计大赛 — 国家三等奖
+- **2024** 第十八届全国大学生智能车竞赛 — 国家二等奖
+- **2024** 全国大学生电子设计竞赛 — 国家二等奖
+- **2024** 中美青年创客大赛 — 国家二等奖
+
+### Provincial (省级)
+
+- **2025** 第十一届全国大学生机械创新设计大赛海南赛区 — 二等奖
+- **2024** 全国大学生数学建模竞赛海南省赛 — 二等奖
+- **2022** 第 24 届中国机器人与人工智能大赛海南赛区 — 三等奖
+
+### University (校级)
+
+- **2025** 海南大学"大学生年度人物"、2025 届优秀毕业生
+- **2024** 三好学生、优秀共青团干部、优秀学生干部、优秀学生会干部、科技创新优秀个人（2021 – 2024）
+- **2022** 海南大学特等综合奖学金
+
+## Experience
+
+### Research Internship
+
+- **2022 – 2023** Business Artificial Intelligence Lab, Nanyang Technological University — research intern under Prof. Teik Toe Teoh; final grade "Distinction"; published two EI-indexed papers (ICONIP 2023, MRL 2023).
+
+### Leadership & Service
+
+- **2022 – 2024** Founder & President, Brain-Computer Interface Technology Association, Hainan University
+- **2021 – 2026** Class Monitor & Youth League Branch Secretary
+- **2023 – 2024** Volunteer, Boao Forum for Asia Annual Conference 2023
+- **2022 – 2023** Member, Youth Marxist Training Program (9th cohort), Hainan University
