@@ -71,9 +71,3 @@ nav_order: 3
 
 - **2022 – 2023** Business Artificial Intelligence Lab, Nanyang Technological University — research intern under Prof. Teik Toe Teoh; final grade "Distinction"; published two EI-indexed papers (ICONIP 2023, MRL 2023).
 
-### Leadership & Service
-
-- **2022 – 2024** Founder & President, Brain-Computer Interface Technology Association, Hainan University
-- **2021 – 2026** Class Monitor & Youth League Branch Secretary
-- **2023 – 2024** Volunteer, Boao Forum for Asia Annual Conference 2023
-- **2022 – 2023** Member, Youth Marxist Training Program (9th cohort), Hainan University
