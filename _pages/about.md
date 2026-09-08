@@ -54,12 +54,9 @@ My research interests include **multi-agent debate (MAD)**, **event causality id
     text-align: center;
     vertical-align: -0.1em;
   }
-  .link-icon img {
-    vertical-align: 0.04em;
-  }
 </style>
 
-- <span class="link-icon"><i class="fa-solid fa-envelope"></i></span> Email: [wuyangjian@stu.xmu.edu.cn](mailto:wuyangjian@stu.xmu.edu.cn)
-- <span class="link-icon"><img src="/assets/img/orcid.svg" alt="ORCID" style="width: 1em; height: 1em;"></span> ORCID: [0009-0002-8771-9343](https://orcid.org/0009-0002-8771-9343)
-- <span class="link-icon"><i class="fa-brands fa-github"></i></span> GitHub: [github.com/Jett-Wu](https://github.com/Jett-Wu)
-- <span class="link-icon"><img src="https://cdn.simpleicons.org/csdn/DC3C22" alt="CSDN" style="width: 1em; height: 1em;"></span> CSDN: [blog.csdn.net/m0_69520131](https://blog.csdn.net/m0_69520131)
+- <span class="link-icon"><i class="fa-solid fa-envelope" style="vertical-align: 0.04em;"></i></span> Email: [wuyangjian@stu.xmu.edu.cn](mailto:wuyangjian@stu.xmu.edu.cn)
+- <span class="link-icon"><img src="/assets/img/orcid.svg" alt="ORCID" style="width: 1em; height: 1em; vertical-align: 0.02em;"></span> ORCID: [0009-0002-8771-9343](https://orcid.org/0009-0002-8771-9343)
+- <span class="link-icon"><i class="fa-brands fa-github" style="vertical-align: 0.04em;"></i></span> GitHub: [github.com/Jett-Wu](https://github.com/Jett-Wu)
+- <span class="link-icon"><img src="https://cdn.simpleicons.org/csdn/DC3C22" alt="CSDN" style="width: 1em; height: 1em; vertical-align: -0.04em;"></span> CSDN: [blog.csdn.net/m0_69520131](https://blog.csdn.net/m0_69520131)
