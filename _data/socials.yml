@@ -4,7 +4,7 @@
 orcid_id: 0009-0002-8771-9343 # your ORCID ID
 github_username: Jett-Wu # your GitHub username
 rss_icon: true # comment this line to hide the RSS icon
-# email: # uncomment and fill in your display email address when ready
+email: wuyangjian@stu.xmu.edu.cn # your email address
 # scholar_userid: # uncomment and fill in your Google Scholar ID when ready
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format)
