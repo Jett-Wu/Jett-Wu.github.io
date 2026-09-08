@@ -41,6 +41,10 @@ My research interests include **multi-agent debate (MAD)**, **event causality id
 - **M.S. in Control Engineering**, School of Aerospace Engineering, Xiamen University, 2025 – present (expected 2028). Advisor: Prof. Qifeng Zhou.
 - **B.S. in Automation**, School of Mechanical and Electrical Engineering, Hainan University, 2021 – 2025.
 
+## Research Experience
+
+- **2022 – 2023** Business Artificial Intelligence Lab, Nanyang Technological University — research intern under Prof. Teik Toe Teoh; final grade "Distinction"; published two EI-indexed papers (ICONIP 2023, MRL 2023).
+
 ## Links
 
 - <i class="fa-solid fa-envelope fa-fw"></i> Email: [wuyangjian@stu.xmu.edu.cn](mailto:wuyangjian@stu.xmu.edu.cn)
