@@ -1,12 +1,10 @@
 ---
 layout: page
-title: honors
+title: honors & awards
 permalink: /honors/
 nav: true
 nav_order: 3
 ---
-
-## Honors & Awards
 
 *A selection of honors and awards.*
 
