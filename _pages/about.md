@@ -55,7 +55,7 @@ My research interests include **multi-agent debate (MAD)**, **event causality id
     vertical-align: -0.1em;
   }
   .link-icon img {
-    vertical-align: 0.08em;
+    vertical-align: 0.04em;
   }
 </style>
 
