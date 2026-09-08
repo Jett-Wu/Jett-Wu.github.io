@@ -10,7 +10,7 @@ nav_order: 3
 
 ### National (国家级)
 
-<div class="publications">
+<div class="publications" markdown="1">
 
 <h2 class="bibliography">2025</h2>
 
@@ -28,7 +28,7 @@ nav_order: 3
 
 ### Provincial (省级)
 
-<div class="publications">
+<div class="publications" markdown="1">
 
 <h2 class="bibliography">2025</h2>
 
@@ -46,7 +46,7 @@ nav_order: 3
 
 ### University (校级)
 
-<div class="publications">
+<div class="publications" markdown="1">
 
 <h2 class="bibliography">2025</h2>
 
