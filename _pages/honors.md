@@ -6,13 +6,13 @@ nav: true
 nav_order: 3
 ---
 
-*A selection of honors and awards.*
+*Selected honors and awards.*
 
 <style>
   .honor-year {
     display: inline-block;
-    min-width: 3.2em;
-    margin-right: 0.5em;
+    min-width: 2.3em;
+    margin-right: 0.4em;
     color: var(--global-text-color-light);
   }
 </style>
