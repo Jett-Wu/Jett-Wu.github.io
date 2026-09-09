@@ -27,14 +27,14 @@ latest_posts:
 ---
 
 I am a Master's student in Control Engineering at **Xiamen University**, advised by Prof. Qifeng Zhou.
-My research interests include **multi-agent debate (MAD)**, **event causality identification (ECI)**, **large language models (LLMs)**, and **graph contrastive learning**.
+My research interests include **multi-agent debate (MAD)**, **event causality identification (ECI)**, **large language models (LLMs)**, and **graph neural networks (GNNs)**.
 
 ## Research Interests
 
 - **Multi-Agent Debate (MAD)**
 - **Event Causality Identification (ECI)**
 - **Large Language Models (LLMs)**
-- **Graph Contrastive Learning**
+- **Graph Neural Networks (GNN)**
 
 ## Education
 
