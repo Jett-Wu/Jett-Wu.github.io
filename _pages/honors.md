@@ -28,12 +28,13 @@ nav_order: 3
 <div class="honor-item"><span class="honor-year">2024</span><span class="honor-text">Gold Award, Hainan Division, China International College Students' Innovation Competition（中国国际大学生创新大赛（2024 海南赛区）金奖）</span></div>
 <div class="honor-item"><span class="honor-year">2024</span><span class="honor-text">Silver Award, Hainan Division, China International College Students' Innovation Competition（中国国际大学生创新大赛（2024 海南赛区）银奖）</span></div>
 <div class="honor-item"><span class="honor-year">2024</span><span class="honor-text">Second Prize, Hainan Division, The 11th National Undergraduate Mechanical Innovation Design Competition（第十一届全国大学生机械创新设计大赛海南赛区二等奖）</span></div>
-<div class="honor-item"><span class="honor-year">2024</span><span class="honor-text">First Prize ("Ancheng iFlytek Cup"), Hainan Division, National Undergraduate Electronic Design Contest（全国大学生电子设计竞赛海南赛区"安诚讯飞杯"一等奖）</span></div>
 <div class="honor-item"><span class="honor-year">2024</span><span class="honor-text">Second Prize, South China Division, The 18th iCAN Innovation and Entrepreneurship Competition（第十八届 iCAN 大学生创新创业大赛（华南赛区）二等奖）</span></div>
 <div class="honor-item"><span class="honor-year">2024</span><span class="honor-text">Three-Good Student, Hainan University（海南大学三好学生）</span></div>
 <div class="honor-item"><span class="honor-year">2024</span><span class="honor-text">Completed Baidu PaddlePaddle Offline Training Camp（百度飞桨线下实训营结业）</span></div>
 <div class="honor-item"><span class="honor-year">2023</span><span class="honor-text">National Second Prize, National Undergraduate Electronic Design Contest（全国大学生电子设计竞赛全国二等奖）</span></div>
-<div class="honor-item"><span class="honor-year">2023</span><span class="honor-text">First Prize (South China Division) & National Second Prize (National Finals), The 18th National University Students Intelligent Car Race（第十八届全国大学生智能汽车竞赛华南赛区一等奖、全国总决赛二等奖）</span></div>
+<div class="honor-item"><span class="honor-year">2023</span><span class="honor-text">National Second Prize (National Finals), The 18th National University Students Intelligent Car Race（第十八届全国大学生智能汽车竞赛全国总决赛二等奖）</span></div>
+<div class="honor-item"><span class="honor-year">2023</span><span class="honor-text">First Prize, Hainan Division, National Undergraduate Electronic Design Contest（全国大学生电子设计竞赛海南赛区一等奖）</span></div>
+<div class="honor-item"><span class="honor-year">2023</span><span class="honor-text">First Prize, South China Division, The 18th National University Students Intelligent Car Race（第十八届全国大学生智能汽车竞赛华南赛区一等奖）</span></div>
 <div class="honor-item"><span class="honor-year">2023</span><span class="honor-text">Second Prize, Hainan Division, China Undergraduate Mathematical Contest in Modeling（全国大学生数学建模竞赛海南省二等奖）</span></div>
 <div class="honor-item"><span class="honor-year">2023</span><span class="honor-text">Second Prize, Haikou Division Finals, China–U.S. Young Maker Competition（中美青年创客大赛海口分赛区决赛二等奖）</span></div>
 <div class="honor-item"><span class="honor-year">2023</span><span class="honor-text">Outstanding Communist Youth League Cadre, Hainan University（海南大学优秀共青团干部）</span></div>
