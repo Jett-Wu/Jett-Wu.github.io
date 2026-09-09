@@ -20,6 +20,7 @@ nav_order: 3
   }
 </style>
 
+<div class="honor-item"><span class="honor-year">2026</span><span class="honor-text">Outstanding Communist Youth League Member, School of Aerospace Engineering, Xiamen University（厦门大学航空航天学院优秀共青团员）</span></div>
 <div class="honor-item"><span class="honor-year">2025</span><span class="honor-text">"Person of the Year" 2025, Hainan University（海南大学 2025 年"大学生年度人物"）</span></div>
 <div class="honor-item"><span class="honor-year">2025</span><span class="honor-text">Outstanding Graduate, Hainan University（海南大学优秀毕业生）</span></div>
 <div class="honor-item"><span class="honor-year">2024</span><span class="honor-text">National Silver Award, China International College Students' Innovation Competition（中国国际大学生创新大赛（2024）全国银奖）</span></div>
