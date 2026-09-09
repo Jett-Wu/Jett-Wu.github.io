@@ -19,7 +19,8 @@ nav_order: 3
 
 <h2 class="bibliography">2025</h2>
 
-- <span class="honor-year">2025</span> "Person of the Year" & Outstanding Graduate, Hainan University（海南大学 2025 年"大学生年度人物"、2025 届优秀毕业生）
+- <span class="honor-year">2025</span> "Person of the Year" 2025, Hainan University（海南大学 2025 年"大学生年度人物"）
+- <span class="honor-year">2025</span> Outstanding Graduate, Hainan University（海南大学优秀毕业生）
 
 <h2 class="bibliography">2024</h2>
 
